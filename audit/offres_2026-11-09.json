@@ -11,9 +11,9 @@
       "company": "ACT-ON GROUP",
       "role": "Alternant.e - SalesOps",
       "url": "https://actongroup.com/offre/alternante-salesops-neuilly-sur-seine-2/",
-      "status": "retirée temporairement de À découvrir",
-      "reason": "Lien direct HTTP 404 lors du contrôle; annonce indexée dans les moteurs; la page affiche Stage en en-tête et précise Alternance de 12 à 24 mois dans le corps",
-      "nextCheck": "Retrouver une page de candidature active et clarifier Stage/Alternance avant remise en ligne"
+      "status": "fermée — retrait définitif du tableau À découvrir",
+      "reason": "Lien direct HTTP 404 lors du contrôle; annonce indexée dans les moteurs; la page affiche Stage en en-tête et précise Alternance de 12 à 24 mois dans le corps; vérification manuelle de l'utilisateur le 2026-11-09 : offre fermée, page n'existe plus",
+      "nextCheck": "Aucun rétablissement de cette annonce historique sans nouvelle offre publiée et vérifiée"
     },
     {
       "company": "HeyTeam",
@@ -71,5 +71,13 @@
     "https://groupe-beaumanoir.gestmax.fr/17199/1/alternance-assistant-e-data-h-f",
     "https://www.welcometothejungle.com/fr/companies/muchbetter-ai/jobs/alternance-sales-ops-outils-ia_paris",
     "https://luckycart.recruitee.com/o/product-manager-alternance"
+  ],
+  "manualVerifications": [
+    {
+      "company": "ACT-ON GROUP",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a vérifié manuellement que la vacance n'existe plus et qu'elle est fermée.",
+      "action": "Ne pas afficher dans À découvrir; conserver uniquement la trace technique d'audit."
+    }
   ]
 }
