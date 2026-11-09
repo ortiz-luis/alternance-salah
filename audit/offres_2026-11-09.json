@@ -40,7 +40,7 @@
     },
     {
       "company": "RMC BFM",
-      "finding": "Mission comprend tableaux de bord, KPI d'audience et reporting; contrat de 1 ou 2 ans"
+      "finding": "Mission comprend tableaux de bord, KPI d'audience et reporting; contrat de 1 ou 2 ans; 09/11/2026 : candidature confirmée ouverte et fonctionnelle par l'utilisateur."
     },
     {
       "company": "Maison&Objet",
@@ -123,6 +123,13 @@
       "finding": "L'utilisateur a testé la candidature JobTeaser pour Analyste Power BI et confirme que le formulaire fonctionne et accepte des candidatures.",
       "action": "Conserver dans À découvrir, confirmer la candidature ouverte ; ne garder en réserve que le niveau DAX.",
       "url": "https://www.jobteaser.com/fr/job-offers/1a57e714-a79b-4645-b849-0c34bc8cde6b-bouygues-construction-alternance-analyste-power-bi-f-h"
+    },
+    {
+      "company": "RMC BFM / CMA CGM",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a vérifié manuellement que l'offre Chargé(e) de projets Growth Marketing permet toujours de postuler et que le formulaire fonctionne.",
+      "action": "Conserver dans À découvrir ; marquer candidature ouverte, avec réserve sur l'intérêt pour les médias.",
+      "url": "https://jobs.cmacgm-group.com/job/ALTERNANCE-Charg%C3%A9%28e%29-de-projets-growth-marketing-%28FHX%29%29/589564-fr_FR/"
     }
   ]
 }
