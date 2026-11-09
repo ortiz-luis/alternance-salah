@@ -60,7 +60,7 @@
     },
     {
       "company": "Lucky Cart",
-      "finding": "Alternance de 12 à 24 mois, début annoncé novembre 2026; formulaire de candidature visible"
+      "finding": "Alternance de 12 à 24 mois ; début prévu novembre 2026. Vérification manuelle le 09/11/2026 : formulaire de candidature fonctionnel et ouvert. Début exact à confirmer."
     }
   ],
   "sources": [
@@ -95,6 +95,13 @@
         "https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214YWWX",
         "https://www.hellowork.com/fr-fr/emplois/84761931.html"
       ]
+    },
+    {
+      "company": "Lucky Cart",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a ouvert le formulaire officiel et confirme qu'il fonctionne et accepte les candidatures.",
+      "action": "Conserver l'offre dans Transmises via Constanza, sans la déplacer dans À découvrir ; signaler candidature ouverte et date de début à confirmer.",
+      "url": "https://luckycart.recruitee.com/o/product-manager-alternance"
     }
   ]
 }
