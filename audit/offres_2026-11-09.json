@@ -44,7 +44,7 @@
     },
     {
       "company": "Maison&Objet",
-      "finding": "Annonce existante; la fiche détaille tracking web et dashboards Qlik/Piano/Imagino"
+      "finding": "Annonce existante; la fiche détaille tracking web et dashboards Qlik/Piano/Imagino Le 09/11/2026, l'utilisateur confirme que Postuler fonctionne."
     },
     {
       "company": "Groupe Beaumanoir / La Halle",
@@ -109,6 +109,13 @@
       "finding": "L'utilisateur confirme que la candidature pour Chargé(e) de Projets Digitaux et Performance fonctionne et reste ouverte.",
       "action": "Conserver dans Transmises via Constanza ; signaler candidature ouverte, mais garder la réserve de compatibilité du rythme et du niveau académique.",
       "url": "https://careers.accor.com/fr/fr/job/alternance-charge-e-de-projets-digitaux-et-performance-in-paris-society-paris-france-jid-115269"
+    },
+    {
+      "company": "Maison&Objet",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a cliqué sur Postuler et confirme que le bouton fonctionne pour l'annonce de Data Analyst.",
+      "action": "Conserver dans À découvrir ; mentionner candidature ouverte selon contrôle manuel, conditions à confirmer.",
+      "url": "https://www.welcometothejungle.com/fr/companies/maison-objet/jobs/2974a565-161c-4861-8134-5fdd5e6e4c3c"
     }
   ]
 }
