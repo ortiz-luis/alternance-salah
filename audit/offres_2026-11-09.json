@@ -102,6 +102,13 @@
       "finding": "L'utilisateur a ouvert le formulaire officiel et confirme qu'il fonctionne et accepte les candidatures.",
       "action": "Conserver l'offre dans Transmises via Constanza, sans la déplacer dans À découvrir ; signaler candidature ouverte et date de début à confirmer.",
       "url": "https://luckycart.recruitee.com/o/product-manager-alternance"
+    },
+    {
+      "company": "Paris Society / Accor",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur confirme que la candidature pour Chargé(e) de Projets Digitaux et Performance fonctionne et reste ouverte.",
+      "action": "Conserver dans Transmises via Constanza ; signaler candidature ouverte, mais garder la réserve de compatibilité du rythme et du niveau académique.",
+      "url": "https://careers.accor.com/fr/fr/job/alternance-charge-e-de-projets-digitaux-et-performance-in-paris-society-paris-france-jid-115269"
     }
   ]
 }
