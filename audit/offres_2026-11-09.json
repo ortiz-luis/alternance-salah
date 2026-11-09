@@ -32,7 +32,7 @@
   "notes": [
     {
       "company": "ETLB / Côté Sushi",
-      "finding": "Annonce existante; mise à jour le 24/10/2026; début annoncé en septembre 2026, déjà passé; candidature toujours affichée mais disponibilité à confirmer"
+      "finding": "Annonce publiée avec date de début septembre 2026 dépassée; le 09/11/2026 l'utilisateur a vérifié manuellement la candidature ouverte et fonctionnelle sur France Travail et HelloWork. Début effectif à reconfirmer."
     },
     {
       "company": "WSN Events",
@@ -70,7 +70,8 @@
     "https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214YWWX",
     "https://groupe-beaumanoir.gestmax.fr/17199/1/alternance-assistant-e-data-h-f",
     "https://www.welcometothejungle.com/fr/companies/muchbetter-ai/jobs/alternance-sales-ops-outils-ia_paris",
-    "https://luckycart.recruitee.com/o/product-manager-alternance"
+    "https://luckycart.recruitee.com/o/product-manager-alternance",
+    "https://www.hellowork.com/fr-fr/emplois/84761931.html"
   ],
   "manualVerifications": [
     {
@@ -84,6 +85,16 @@
       "date": "2026-11-09",
       "finding": "L'utilisateur a vérifié manuellement que l'offre est fermée ou n'existe plus.",
       "action": "Exclure de À découvrir; conserver la trace technique seulement."
+    },
+    {
+      "company": "ETLB / Côté Sushi",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a testé les deux liens France Travail et HelloWork, et confirme que la candidature est ouverte et fonctionne.",
+      "action": "Conserver dans À découvrir. Afficher deux liens distincts FT et HW; préciser que la date de début est à reconfirmer.",
+      "links": [
+        "https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214YWWX",
+        "https://www.hellowork.com/fr-fr/emplois/84761931.html"
+      ]
     }
   ]
 }
