@@ -3,7 +3,7 @@
 ## Périmètre
 - Douze candidatures affichées : cinq sous « À découvrir », sept dans l'historique « Transmises via Constanza ».
 - Chaque ligne pointe vers un PDF de 1 page A4 (`cv/CV_Salah_<offre>.pdf`) et sa version HTML modifiable (`cv.html?poste=<offre>`).
-- Le bouton « Voir l'offre » ouvre directement la proposition dans un nouvel onglet. Pour ETLB / Côté Sushi, le lien retenu est France Travail (réf. 214YWWX), déjà testé manuellement. Le lien HelloWork alternatif est conservé dans `audit/offres_2026-11-09.json`.
+- Le bouton « Voir l'offre » ouvre directement la proposition dans un nouvel onglet. Pour ETLB / Côté Sushi, le lien retenu est France Travail (réf. 214YWWX), déjà testé manuellement : la page précise que l'offre est gérée par une agence France Travail et que « Postuler » ouvre directement le formulaire sur candidat.francetravail.fr après connexion. C'est un canal explicitement identifié comme gestionnaire de l'annonce, à privilégier sur un duplicata de portail commercial (sans garantie du résultat). Le lien HelloWork alternatif est conservé dans `audit/offres_2026-11-09.json`.
 - Les versions PDF ont été produites via Chrome à partir du HTML générateur, à mise en page A4. Les 12 PDF ont été vérifiés comme documents d'une seule page.
 
 ## Sources utilisées
