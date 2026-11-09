@@ -116,6 +116,13 @@
       "finding": "L'utilisateur a cliqué sur Postuler et confirme que le bouton fonctionne pour l'annonce de Data Analyst.",
       "action": "Conserver dans À découvrir ; mentionner candidature ouverte selon contrôle manuel, conditions à confirmer.",
       "url": "https://www.welcometothejungle.com/fr/companies/maison-objet/jobs/2974a565-161c-4861-8134-5fdd5e6e4c3c"
+    },
+    {
+      "company": "Bouygues Construction",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a testé la candidature JobTeaser pour Analyste Power BI et confirme que le formulaire fonctionne et accepte des candidatures.",
+      "action": "Conserver dans À découvrir, confirmer la candidature ouverte ; ne garder en réserve que le niveau DAX.",
+      "url": "https://www.jobteaser.com/fr/job-offers/1a57e714-a79b-4645-b849-0c34bc8cde6b-bouygues-construction-alternance-analyste-power-bi-f-h"
     }
   ]
 }
