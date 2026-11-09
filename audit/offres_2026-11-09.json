@@ -19,9 +19,9 @@
       "company": "HeyTeam",
       "role": "Alternance - Marketing & Growth Coordinator",
       "url": "https://join.com/companies/heyteam/16881809-alternance-marketing-et-growth-coordinator",
-      "status": "retirée temporairement de À découvrir",
-      "reason": "Lien direct HTTP 410 (Gone) malgré la présence d'une copie indexée",
-      "nextCheck": "Rechercher une nouvelle annonce officielle active"
+      "status": "fermée — retrait définitif du tableau À découvrir",
+      "reason": "Lien direct HTTP 410 (Gone) malgré la présence d'une copie indexée; vérification manuelle de l'utilisateur le 2026-11-09 : offre fermée ou n'existe plus",
+      "nextCheck": "Ne pas rétablir cette annonce historique sans nouvelle offre vérifiée"
     }
   ],
   "transmittedTab": {
@@ -78,6 +78,12 @@
       "date": "2026-11-09",
       "finding": "L'utilisateur a vérifié manuellement que la vacance n'existe plus et qu'elle est fermée.",
       "action": "Ne pas afficher dans À découvrir; conserver uniquement la trace technique d'audit."
+    },
+    {
+      "company": "HeyTeam",
+      "date": "2026-11-09",
+      "finding": "L'utilisateur a vérifié manuellement que l'offre est fermée ou n'existe plus.",
+      "action": "Exclure de À découvrir; conserver la trace technique seulement."
     }
   ]
 }
