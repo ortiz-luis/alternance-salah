@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-09",
+  "purpose": "Contrôle des annonces avant partage public",
+  "publicSite": "https://ortiz-luis.github.io/alternance-salah/",
+  "currentTab": {
+    "count": 5,
+    "criteria": "Offre identifiable, URL exploitable ou référencée; ouverture des candidatures non garantie"
+  },
+  "pendingRecheck": [
+    {
+      "company": "ACT-ON GROUP",
+      "role": "Alternant.e - SalesOps",
+      "url": "https://actongroup.com/offre/alternante-salesops-neuilly-sur-seine-2/",
+      "status": "retirée temporairement de À découvrir",
+      "reason": "Lien direct HTTP 404 lors du contrôle; annonce indexée dans les moteurs; la page affiche Stage en en-tête et précise Alternance de 12 à 24 mois dans le corps",
+      "nextCheck": "Retrouver une page de candidature active et clarifier Stage/Alternance avant remise en ligne"
+    },
+    {
+      "company": "HeyTeam",
+      "role": "Alternance - Marketing & Growth Coordinator",
+      "url": "https://join.com/companies/heyteam/16881809-alternance-marketing-et-growth-coordinator",
+      "status": "retirée temporairement de À découvrir",
+      "reason": "Lien direct HTTP 410 (Gone) malgré la présence d'une copie indexée",
+      "nextCheck": "Rechercher une nouvelle annonce officielle active"
+    }
+  ],
+  "transmittedTab": {
+    "count": 7,
+    "policy": "Conserver toutes les offres historiquement transmises via Constanza, y compris si une annonce expire ou disparaît. Ce statut ne signifie pas candidature déposée.",
+    "closureFinding": "Aucune clôture définitivement établie parmi les sept annonces transmises au contrôle du 2026-11-09. Une page accessible ne garantit pas un recrutement encore ouvert."
+  },
+  "notes": [
+    {
+      "company": "ETLB / Côté Sushi",
+      "finding": "Annonce existante; mise à jour le 24/10/2026; début annoncé en septembre 2026, déjà passé; candidature toujours affichée mais disponibilité à confirmer"
+    },
+    {
+      "company": "WSN Events",
+      "finding": "Alternance de deux ans exigée, et début annoncé le 01/10/2026 (non simple possibilité)"
+    },
+    {
+      "company": "RMC BFM",
+      "finding": "Mission comprend tableaux de bord, KPI d'audience et reporting; contrat de 1 ou 2 ans"
+    },
+    {
+      "company": "Maison&Objet",
+      "finding": "Annonce existante; la fiche détaille tracking web et dashboards Qlik/Piano/Imagino"
+    },
+    {
+      "company": "Groupe Beaumanoir / La Halle",
+      "finding": "Annonce de l'entreprise : Excel, Power BI, Business Objects, Piano et analyse omnicanale; Python et SQL ne sont pas des exigences citées"
+    },
+    {
+      "company": "muchbetter.ai",
+      "finding": "Annonce d'alternance, CRM HubSpot, reporting, agents IA; démarrage janvier 2027 et durée 12 à 24 mois"
+    },
+    {
+      "company": "MG Motor France",
+      "finding": "Stage ou apprentissage, durée six mois ou un an, français et anglais courants"
+    },
+    {
+      "company": "Lucky Cart",
+      "finding": "Alternance de 12 à 24 mois, début annoncé novembre 2026; formulaire de candidature visible"
+    }
+  ],
+  "sources": [
+    "https://actongroup.com/offre/alternante-salesops-neuilly-sur-seine-2/",
+    "https://join.com/companies/heyteam/16881809-alternance-marketing-et-growth-coordinator",
+    "https://wsn-events.com/assistant-chef-de-projet-marketing-operationnel-alternance",
+    "https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214YWWX",
+    "https://groupe-beaumanoir.gestmax.fr/17199/1/alternance-assistant-e-data-h-f",
+    "https://www.welcometothejungle.com/fr/companies/muchbetter-ai/jobs/alternance-sales-ops-outils-ia_paris",
+    "https://luckycart.recruitee.com/o/product-manager-alternance"
+  ]
+}
