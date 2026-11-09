@@ -14,7 +14,7 @@ document.getElementById('pitch').textContent=p.pitch;
 document.getElementById('skills').innerHTML=p.skills.split(' · ').map(s=>'<span class="skill">'+safe(s)+'</span>').join('');
 document.getElementById('experience').innerHTML=p.exp.map(k=>{const j=JOBS[k];return '<div class="job"><div class="jobhead"><strong>'+safe(j.title)+'</strong></div><div class="org">'+safe(j.org)+'</div><ul>'+j.items.map(v=>'<li>'+safe(v)+'</li>').join('')+'</ul></div>'}).join('');
 document.getElementById('projects').innerHTML=p.projects.map(k=>{const j=PROJECTS[k];return '<div class="project"><strong>'+safe(j.title)+'</strong><p>'+safe(j.desc)+'</p></div>'}).join('');
-document.getElementById('tail').textContent='Projets personnels et pédagogiques présentés à titre d'études de cas.';
+document.getElementById('tail').textContent='Projets personnels et pédagogiques sur jeux de données de référence.';
 }
 document.getElementById('edit').addEventListener('click',()=>{const s=document.querySelector('.sheet');const on=s.contentEditable!=='true';s.contentEditable=on?'true':'false';document.getElementById('edit').textContent=on?'Terminer les modifications':'Modifier le texte';});
 </script></body></html>
